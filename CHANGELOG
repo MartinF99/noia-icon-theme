@@ -1,0 +1,10 @@
+CHANGELOG
+
+2019.03.09:
+updated the icon themes to current freedesktop.org specs by symlinking the new names to the old
+
+2019.03.09:
+fixed list-add.png by relinking to correct image
+
+2019.03.14:
+Added a link for system-file-manager.png
